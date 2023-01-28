@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//Console.WriteLine("Hello, World!");
 
 string[] array1 = new string[5] {"yes", "4873", "hello", "class", "res"};
 string[] array2 = new string[array1.Length];
